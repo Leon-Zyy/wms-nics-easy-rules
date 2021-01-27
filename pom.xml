@@ -46,7 +46,7 @@
             <dependency>
                 <groupId>org.easyrules</groupId>
                 <artifactId>easyrules-core</artifactId>
-                <version>${project.version}</version>
+                <version>2.4.0</version>
             </dependency>
 
             <dependency>
